@@ -5,7 +5,7 @@ https://gubeautiful.github.io/am.json
 
 ##### 配置地址二:
 ```
-
+https://raw.iqiq.io/GUbeautiful/gubeautiful.github.io/main/m.json
 ```
 
 ##### 影视:
