@@ -1,6 +1,6 @@
 ##### 配置地址一:
 ```
-
+https://gubeautiful.github.io/am.json
 ```
 
 ##### 配置地址二:
